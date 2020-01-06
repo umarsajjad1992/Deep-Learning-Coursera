@@ -1,13 +1,10 @@
 # Deep-Learning-Coursera
 This repository is about course "CS230 - Deep Learning" based on Coursera and Stanford.edu.com
 
-In this repository, I will update slides and exercises every week.
 
 Syllabus
 
 Part 1: Neural Network and Deep Learning
-
-  Week 1 - Introduction
 
   Week 2 - Neural Networks Basics
 
